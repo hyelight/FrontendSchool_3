@@ -1,3 +1,5 @@
+// 구조분해할당(Destructuring Assignment)
+// : 구조분해할당 구문은 배열이나 객체의 속성을 분해하여 그 값을 변수에 담을 수 있게 하는 표현식
 let value = [10, 1, 100, 200, 300, 10];
 let value2 = {
     one:1,
